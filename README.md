@@ -5,4 +5,11 @@ A base de dados escolhida foi [Estimation of Obesity Levels Based On Eating Habi
 
 O modelo realiza uma tarefa de **classificação**, utilizando o algoritmo Random Forest
 
-O projeto foi criado e executado no Google Colab, especificamente.
+O projeto foi inicialmente criado e executado no Google Colab. Para importar e executar o projeto:
+
+1. Abra a página inicial do Colan
+2. Clique em *fazer upload de notebook*
+3. Clique em *GitHub*, no canto esquerdo da tela que abrir, e insira o link deste repositório
+4. Espere o carregamento
+5. Clique em "estimation_of_obesity_levels.ipynb"
+6. Por fim, execute as células em sequência, de cima para baixo
